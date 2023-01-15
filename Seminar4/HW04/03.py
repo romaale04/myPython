@@ -50,4 +50,5 @@ def uniq_el(list_nums: list):
 
 all_list = list_rand_nums(int(input("Number of numbers: ")))
 print(all_list)
+print(uniq_el(all_list))
 
